@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  align-items: center;
+  text-align: center;
+  background-color: #E3E2DF;
+}
+
+/* Font Styling */
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+/*font-family: 'Akaya Telivigala', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Dancing+Script:wght@500&display=swap');
+/*font-family: 'Dancing Script', cursive;*/
+
+/********************************************************************************************************************/
+
+/*Styling all the content of body of HTML*/
+
+.id{
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 2rem;
+}
+
+h1{
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #9A1750;
+  
+}
+
+h2{
+  font-family: 'Akaya Telivigala', cursive;
+  font-size: 2rem;
+}
+
+.img {
+
+  width : 500px;
+  height: 500px;
+}
+
+p {
+
+  font-family:'Akaya Telivigala', cursive;
+  font-size: 20px;
+}
+
+.photocredit {
+
+  font-family:sans-serif;
+  font-size:20px;
+}
